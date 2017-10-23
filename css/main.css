@@ -10,29 +10,30 @@ header{
 
 ul{
   list-style: none; /*Se quita el delineado automatico de la etiqueta "anchor"*/
-  border: 0;
-  padding-left: 0;
-  /*margin-right: 60px;*/
+  padding: 0;
+  margin: 0;
+  line-height: 50px;
+}
+
+
+li{
+  background: #232323;
+  /*font-size: 18px;*/
+  float: left; /* Se aplico float al menu para que el se puede delizar hacía la derecha*/
+  width: 150px;
+  text-align: center;
 }
 
 /* Se le añadio el display: Block para que haya mas espacio de ancho y el color de letra que le atribuye es blanco */
 a{
-  display: block;
+  outline: 1px purple border;
+  display:block;
   text-decoration: none;
   color: white;
 }
 
-/* Cuando el mouse pasa por el menu horizonatal, las letras se convertiran en negro y el cpolor de fondo, anaranjado*/
+/* Cuando el mouse pasa por el menu horizontal, las letras se convertiran en negro y el color de fondo, anaranjado*/
 a:hover{
-  background: #ffbf00;
+  background: #ffbf00; /*anaranjado*/
   color: black;
-}
-/* Se aplico float al menu para que el se puede delizar hacía la derecha*/
-li{
-  background: #232323;
-  font-size: 18px;
-  float: left;
-  line-height: 50px;
-  width: 100px;
-  text-align: center;
 }

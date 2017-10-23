@@ -1,0 +1,38 @@
+Body {
+  font-family: sans-serif;
+  background: #f8f8ff;
+}
+
+/*tamaño de fuente de título */
+header{
+  font-size: 12px;
+}
+
+ul{
+  list-style: none; /*Se quita el delineado automatico de la etiqueta "anchor"*/
+  border: 0;
+  padding-left: 0;
+  /*margin-right: 60px;*/
+}
+
+/* Se le añadio el display: Block para que haya mas espacio de ancho y el color de letra que le atribuye es blanco */
+a{
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+
+/* Cuando el mouse pasa por el menu horizonatal, las letras se convertiran en negro y el cpolor de fondo, anaranjado*/
+a:hover{
+  background: #ffbf00;
+  color: black;
+}
+/* Se aplico float al menu para que el se puede delizar hacía la derecha*/
+li{
+  background: #232323;
+  font-size: 18px;
+  float: left;
+  line-height: 50px;
+  width: 100px;
+  text-align: center;
+}

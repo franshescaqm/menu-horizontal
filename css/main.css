@@ -12,6 +12,7 @@ ul{
   list-style: none; /*Se quita el delineado automatico de la etiqueta "anchor"*/
   padding: 0;
   margin: 0;
+  /* se aplica un valor de 0 para evitar dejar espacios extras*/
   line-height: 50px;
 }
 
@@ -24,7 +25,7 @@ li{
   text-align: center;
 }
 
-/* Se le añadio el display: Block para que haya mas espacio de ancho y el color de letra que le atribuye es blanco */
+/* Se le añadio el display: Block para que haya mas espacio de ancho y el color de letra que se le atribuye es blanco */
 a{
   outline: 1px purple border;
   display:block;

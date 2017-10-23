@@ -7,4 +7,4 @@ Se ha realizado el segundo ejercico de menu vertical,problem similar al primer e
 
 > Realizado por Franshesca Quezada  
 
-!practicando ejercicios](https://www.pinterest.com/pin/571112796477144672/?autologin=true)
+![practicando ejercicios](/Menu Horizontal/assets/img)

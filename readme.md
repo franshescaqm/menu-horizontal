@@ -6,3 +6,5 @@ Se ha realizado el segundo ejercico de menu vertical,problem similar al primer e
 2. Para realizar el paso uno, se necesito usar un estilo "float"
 
 > Realizado por Franshesca Quezada  
+
+!practicando ejercicios](https://www.pinterest.com/pin/571112796477144672/?autologin=true)
